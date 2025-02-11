@@ -7,4 +7,5 @@
 pycache/
 node_modules/
 dist/
+env/
 build/
